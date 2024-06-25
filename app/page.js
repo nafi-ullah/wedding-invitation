@@ -13,7 +13,7 @@ export default function Home() {
       return;
     }
 
-    const options = { cacheBust: true, width: 1850, height: 800 };
+    const options = { cacheBust: true, width: 1850, height: 900 };
 
     if (format === 'png') {
       toPng(cardRef.current, options)
