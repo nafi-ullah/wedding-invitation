@@ -3,9 +3,11 @@ import React from 'react';
 const Invitation = ({ guestName }) => {
   return (
     <div className='w-full h-full justify-center text-[#E1B954]'>
-      <div className='w-full my-1 mt-8 flex justify-center pt_sarief text-2xl'>Dear {guestName || 'Guest'}, </div>
-      <div className='w-full flex justify-center text-2xl pt_sarief'>You are requested to attend the wedding ceremony of </div>
-      <div className='text-5xl w-full flex justify-center my-7 mb-14 pt_sarief'>Wedding Invitation</div>
+            <div className='text-5xl w-full flex justify-center my-7  pt_sarief'>Wedding Invitation</div>
+      <div className='w-full my-1  flex justify-center pt_sarief text-2xl'>Dear {guestName || 'Guest'}, </div>
+      
+      <div className='w-full flex justify-center text-2xl pt_sarief mb-14'>You are requested to attend the wedding ceremony of </div>
+
       <div className='parisienne w-full text-5xl flex justify-center '>Muid Hasan Mahin</div>
       <div className='pt_sarief w-full text-xl flex justify-center italic'>Eldest son of S.M.Sayed and Nargis Parvin Nazma</div>
       <div className='parisienne w-full text-6xl flex justify-center'>&</div>
