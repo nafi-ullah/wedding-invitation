@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+.roboto{
+  font-family: var(--font-roboto);
+}
+.parisienne{
+  font-family: var(--font-parisienne);
+}
+
+.pt_sarief{
+  font-family: var(--font-pt_sarief);
+}
