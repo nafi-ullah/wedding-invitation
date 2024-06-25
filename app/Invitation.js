@@ -9,7 +9,7 @@ const Invitation = ({ guestName }) => {
       <div className='parisienne w-full text-5xl flex justify-center '>Muid Hasan Mahin</div>
       <div className='parisienne w-full text-8xl flex justify-center'>&</div>
       <div className='parisienne w-full text-5xl flex justify-center'>Afroze Jabin Ela</div>
-      <div className='w-full my-6 flex justify-center pt_sarief text-2xl mt-20'>Save The Date </div>
+      <div className='w-full my-6 flex justify-center pt_sarief text-2xl mt-14'>Save The Date </div>
       <div className='w-full flex justify-center '>
         <div className='w-1/2 h-1 bg-[#E1B954] '></div>
       </div>
