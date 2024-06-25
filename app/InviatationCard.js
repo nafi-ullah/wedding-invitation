@@ -13,7 +13,8 @@ const InviatationCard = ({guestName}) => {
     </div>
     <div className="w-1/5"><img src="sidebar2.png" alt="side image"/></div>
     </div>
-    <div className="w-full h-2 bg-yellow-800 mb-10"></div>
+    <div className="w-full h-2 bg-yellow-800 "></div>
+    <div className="w-full h-20 bg-black "></div>
     
     </div>
   )
