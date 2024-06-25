@@ -18,7 +18,7 @@ const Invitation = ({ guestName }) => {
         <div className='w-1/2 h-1 bg-[#E1B954] '></div>
        
       </div>
-      <div className='w-full my-6 flex justify-center pt_sarief text-2xl mt-2'>02:00 PM Friday </div>
+      <div className='w-full my-6 flex justify-center pt_sarief text-2xl mt-2'>01:00 PM Friday </div>
       <div className='w-full mt-6 flex justify-center pt_sarief text-2xl '>HAQUE's Banquet Hall & Restaurant   </div>
       <div className='w-full text-center px-5  pb-10 flex justify-center pt_sarief text-lg'>46/6, Haque Tower, M-block, Main Road, Banasree, Dhaka-1219  </div>
     </div>
