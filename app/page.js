@@ -48,7 +48,7 @@ export default function Home() {
           value={guestName} 
           onChange={(e) => setGuestName(e.target.value)} 
           placeholder="Enter guest name" 
-          className="mb-4 p-2 border border-gray-300 placeholder:text-black"
+          className="mb-4 p-2 border border-gray-300 text-black placeholder:text-black"
         />
         <div className="flex space-x-4">
           <button 
